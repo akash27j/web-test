@@ -4,7 +4,11 @@ text-align: center;
 
 }
 h1{
-color:red;
+color:orange;
 
+
+}
+.container{
+    border-style: lined;
 
 }
